@@ -1,6 +1,6 @@
 # pip3-break
 
-#### Force pip3 operation on system-wide (Python >= 3.12)
+#### Force pip3 install on system-wide (Python >= 3.12)
 
 
 ```
